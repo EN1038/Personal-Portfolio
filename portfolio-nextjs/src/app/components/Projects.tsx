@@ -9,7 +9,7 @@ const Projects = () => {
       description:
         "เว็บ  Portfolio สร้างโดยใช้ Next.js และ Tailwind CSS",
       technologies: ["Next.js", "Tailwind CSS"],
-      projectLink: "https://github.com/EN1038/CheckerByQR-code",
+      projectLink: "https://github.com/EN1038/Personal-Portfolio",
     },
     {
       id: 2,
