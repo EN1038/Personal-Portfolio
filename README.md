@@ -11,6 +11,7 @@
 <h4> Technologies Used </h4>
 <ul>
   <li>HTML</li>
+  <li>TypeScript</li>
   <li>Tailwind CSS</li>
   <li>Next.js</li>
 </ul>
